@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>usage_overview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-07 07:47:11</sys_created_on>
+        <sys_id>cb87441c07320110ea2bf0ef7c1ed037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Usage_overview</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_772711_rp">0d185fb307a24110ea2bf0ef7c1ed04b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">0d185fb307a24110ea2bf0ef7c1ed04b</sys_scope>
+        <sys_update_name>sys_ui_view_cb87441c07320110ea2bf0ef7c1ed037</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-07 07:47:11</sys_updated_on>
+        <title>Usage_overview</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

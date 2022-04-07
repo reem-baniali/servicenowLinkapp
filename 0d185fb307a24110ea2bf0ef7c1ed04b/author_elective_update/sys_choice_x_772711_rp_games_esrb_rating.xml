@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="esrb_rating" table="x_772711_rp_games" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esrb_rating</element>
+            <name>x_772711_rp_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 10:07:55</sys_created_on>
+            <sys_id>a22e1bbb07a24110ea2bf0ef7c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>esrb_rating</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_772711_rp">0d185fb307a24110ea2bf0ef7c1ed04b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">0d185fb307a24110ea2bf0ef7c1ed04b</sys_scope>
+            <sys_update_name>sys_choice_x_772711_rp_games_esrb_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 10:07:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_772711_rp_games</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 10:07:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec0e977b07a24110ea2bf0ef7c1ed029</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 10:08:45</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E</label>
+            <language>en</language>
+            <name>x_772711_rp_games</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 10:08:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e2e977b07a24110ea2bf0ef7c1ed02a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 10:08:49</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>T</label>
+            <language>en</language>
+            <name>x_772711_rp_games</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 10:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>485edb7b07a24110ea2bf0ef7c1ed0a2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 10:09:08</sys_updated_on>
+            <value>T</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>M</label>
+            <language>en</language>
+            <name>x_772711_rp_games</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 10:09:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d6edbbb07a24110ea2bf0ef7c1ed028</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 10:10:00</sys_updated_on>
+            <value>M</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
