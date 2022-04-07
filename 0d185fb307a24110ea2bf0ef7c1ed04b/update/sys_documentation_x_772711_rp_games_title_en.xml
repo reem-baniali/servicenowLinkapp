@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="title" label="Title" language="en" table="x_772711_rp_games">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <help/>
+            <hint/>
+            <label>Title</label>
+            <language>en</language>
+            <name>x_772711_rp_games</name>
+            <plural>Titles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-06 09:46:42</sys_created_on>
+            <sys_id>3f4957b707a24110ea2bf0ef7c1ed016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Title</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_772711_rp">0d185fb307a24110ea2bf0ef7c1ed04b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">0d185fb307a24110ea2bf0ef7c1ed04b</sys_scope>
+            <sys_update_name>sys_documentation_x_772711_rp_games_title_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-06 09:46:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
